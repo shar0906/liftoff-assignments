@@ -7,11 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
-### Features
-Include Features here
+Journey is a ride sharing platform that allows adults to purchase rides for their children. 
+
+### Features include
+-On Course Navigation
+-Accelerometer/Speedometer Check
+-In-Car Safety Camera with Live Feed
+
 ### Technologies
-Include Technologies here
+Vue
+C#
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to level up on my Vue and figure out how to  integrate Vue with C Sharp to build out the frontend of my web application.
