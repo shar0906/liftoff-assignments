@@ -10,6 +10,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 Journey is a ride sharing platform that allows adults to purchase rides for their children. 
 
 ### Features include
+-User Login
 -On Course Navigation
 -Accelerometer/Speedometer Check
 -In-Car Safety Camera with Live Feed
@@ -17,6 +18,7 @@ Journey is a ride sharing platform that allows adults to purchase rides for thei
 ### Technologies
 Vue
 C#
+
 
 ### What I'll Have to Learn
 I'll have to level up on my Vue and figure out how to  integrate Vue with C Sharp to build out the frontend of my web application.
