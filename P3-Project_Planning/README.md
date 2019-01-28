@@ -8,12 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* ![App Index](journeyMoqUp/appIndex.jpg)
+* ![Login](journeyMoqUp/login.jpg)
+* ![SignUp](journeyMoqUp/signUp.jpg)
+* ![Select A Rider](journeyMoqUp/selectARider.jpg)
+* ![Choosing Destination](journeyMoqUp/choosingDestination.jpg)
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/4ugIkczV/journeymvp
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/shar0906/journey
