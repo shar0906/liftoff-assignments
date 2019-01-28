@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ![App Index](journeyMoqUp/appIndex.jpg)
-* ![Login](journeyMoqUp/login.jpg)
-* ![SignUp](journeyMoqUp/signUp.jpg)
-* ![Select A Rider](journeyMoqUp/selectARider.jpg)
-* ![Choosing Destination](journeyMoqUp/choosingDestination.jpg)
+* [App Index](journeyMoqUp/appIndex.jpg)
+* [Login](journeyMoqUp/login.jpg)
+* [SignUp](journeyMoqUp/signUp.jpg)
+* [Select A Rider](journeyMoqUp/selectARider.jpg)
+* [Choosing Destination](journeyMoqUp/choosingDestination.jpg)
 
 
 ### Project Tracker
